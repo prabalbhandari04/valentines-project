@@ -40,7 +40,7 @@ noBtn.addEventListener("touchstart", dodgeNoButton, {
 function sayYes() {
     document.body.classList.add("success");
 
-    title.textContent = "YAYYYY! Ill see you there at The Loft on 26th sept 3pm ! ❤️🥰";
+    title.textContent = "YAYYYY! I will see you at The Loft on 26th sept, 3pm ! ❤️🥰";
 
     message.textContent =
         "I KNEW YOU'D SAY YES! 💕";
