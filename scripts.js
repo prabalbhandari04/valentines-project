@@ -14,7 +14,7 @@ const happyGif =
 const messages = [
     "Please think again 😢",
     "Are you sure? 🥺",
-    "But I really like you! 💕",
+    "But I really want you to come! 💕",
     "Don't break my heart 💔",
     "I'll be really sad 😭",
     "You know you want to! 😉",
@@ -40,7 +40,7 @@ noBtn.addEventListener("touchstart", dodgeNoButton, {
 function sayYes() {
     document.body.classList.add("success");
 
-    title.textContent = "YAYYYY! WUFF WUFF! ❤️🥰";
+    title.textContent = "YAYYYY! Ill see you there at The Loft on 26th sept 3pm ! ❤️🥰";
 
     message.textContent =
         "I KNEW YOU'D SAY YES! 💕";
